@@ -1,4 +1,4 @@
-#Senior Machine Learning Engineer | MLOps & Data Architecture#
+# Senior Machine Learning Engineer | MLOps & Data Architecture
 
 I develop end-to-end Machine Learning ecosystems, transforming unstructured data chaos into structured, auditable strategic assets.
 I specialize in LLM orchestration, RAG architectures, and probabilistic reliability systems.
