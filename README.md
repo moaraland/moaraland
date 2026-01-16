@@ -1,15 +1,6 @@
 # Machine Learning Engineer | MLOps & Data Architecture
 
 I develop end-to-end Machine Learning ecosystems, transforming unstructured data chaos into structured, auditable strategic assets.
-I specialize in LLM orchestration, RAG architectures, and probabilistic reliability systems.
-
----
-
-## Technologies & Tools
-# Machine Learning Engineer | MLOps & Data Architecture
-
-I develop end-to-end Machine Learning ecosystems, transforming unstructured data chaos into structured, auditable strategic assets.
-I specialize in LLM orchestration, RAG architectures, and probabilistic reliability systems.
 
 ---
 
@@ -36,18 +27,21 @@ I specialize in LLM orchestration, RAG architectures, and probabilistic reliabil
 ![RAG](https://img.shields.io/badge/RAG_Architecture-FF6F61?style=for-the-badge)
 
 ### Data Engineering & ETL
+![Azure DevOps](https://img.shields.io/badge/Microsoft_Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Doc_Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ETL/ELT](https://img.shields.io/badge/ETL_Pipelines-008080?style=for-the-badge)
 ![JSON Schema](https://img.shields.io/badge/JSON_Schema-222222?style=for-the-badge&logo=json-schema&logoColor=white)
 
 ### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/Postgres_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint_API-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
+### Analytics & BI
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ### MLOps & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -60,15 +54,9 @@ I specialize in LLM orchestration, RAG architectures, and probabilistic reliabil
 ---
 
 ## Expertise & Impact
-- **LLM Orchestration:** Implementation of multimodal workflows with intelligent fallback between models (Haiku/Sonnet/Opus) for cost optimization (TCO).
-- **RAG Architecture & Vector Search:** Design of retrieval systems using **pgvector** and **Supabase** with multi-collection management to minimize hallucinations.
-- **Agentic Workflows:** Development of autonomous agents using **MCP**, **LangChain** and native provider frameworks (OpenAI/Anthropic).
-- **Observability & Reliability
-
----
-
-## Expertise & Impact
-LLM Orchestration: Implementation of multimodal workflows with intelligent fallback between models (Haiku/Sonnet/Opus) for cost optimization (TCO).
-RAG Architecture: Design of information retrieval systems with multi-collection management (ChromaDB) to minimize hallucinations.
-Reliability Engineering: Development of custom Bayesian scoring for large-scale data integrity and validation.
+- **Agentic Workflows & MCP:** Implementation of autonomous agents using Model Context Protocol for seamless integration between LLMs and local/remote data sources.
+- **Vector Architecture:** Advanced search systems using **pgvector** and **ChromaDB** for high-scale, production-ready RAG applications.
+- **Modern Data Stack:** Management of distributed databases including **MongoDB** and **Supabase**, integrated with BI tools for strategic insights.
+- **CI/CD & Automation:** Delivery of end-to-end pipelines using **Microsoft Azure DevOps** and **n8n**, ensuring robust MLOps cycles.
+- **Observability:** Real-time monitoring of AI infrastructure with **Grafana** and **Prometheus** for performance and cost tracking.
 DataOps & Governance: Automation of end-to-end pipelines with complete traceability via immutable hashes and Power Platform integration.
